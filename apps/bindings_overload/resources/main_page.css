@@ -24,9 +24,6 @@
 */
 .sc-button-view {
   opacity: 1;
-  -webkit-transition-property: left, top, opacity;
-  -webkit-transition-duration: 1s, 1s, 1s;
-  -webkit-transition-timing-function: ease-in-out, ease-in-out, linear;
 }
 
 .bindings-controls {
